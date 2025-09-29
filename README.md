@@ -4,7 +4,7 @@ This project is a functional, interactive clone of the X (formerly Twitter) feed
 
 ## 🚀 Live Demo
 
-[Link to your live project (e.g., on Netlify or GitHub Pages)]
+[https://scwimba.netlify.app/]
 
 ## ✨ Features & Skills Learned
 
