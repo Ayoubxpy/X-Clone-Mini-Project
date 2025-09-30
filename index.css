@@ -130,3 +130,28 @@ button{
 .hidden{
     display: none;
 }
+/* ===========================
+   REPLY INPUT STYLES
+   =========================== */
+
+.reply-input-area {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px 0 10px 40px;
+    width: 80%;
+}
+
+.reply-input-area textarea {
+    height: 40px;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.reply-input-area button {
+    width: 100px;
+    align-self: flex-end;
+    font-size: 14px;
+    padding: 8px;
+}
